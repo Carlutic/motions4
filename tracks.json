@@ -68,14 +68,14 @@
         "camMotionFile": "tracks/Pattern1/Camera儌乕僔儑儞.vmd"
     },
     {
-        "name": "Pattern1",
+        "name": "Pattern1 (2)",
         "repo": "motions4",
         "slug": "Pattern1_2",
         "modelMotionFile": "tracks/Pattern1_2/Dance儌乕僔儑儞.vmd",
         "camMotionFile": "tracks/Pattern1_2/Camera儌乕僔儑儞.vmd"
     },
     {
-        "name": "Pattern1",
+        "name": "Pattern1 (3)",
         "repo": "motions4",
         "slug": "Pattern1_3",
         "modelMotionFile": "tracks/Pattern1_3/Dance儌乕僔儑儞.vmd",
@@ -89,14 +89,14 @@
         "camMotionFile": "tracks/Pattern2/Camera儌乕僔儑儞.vmd"
     },
     {
-        "name": "Pattern2",
+        "name": "Pattern2 (2)",
         "repo": "motions4",
         "slug": "Pattern2_2",
         "modelMotionFile": "tracks/Pattern2_2/Dance儌乕僔儑儞.vmd",
         "camMotionFile": "tracks/Pattern2_2/Camera儌乕僔儑儞.vmd"
     },
     {
-        "name": "Pattern2",
+        "name": "Pattern2 (3)",
         "repo": "motions4",
         "slug": "Pattern2_3",
         "modelMotionFile": "tracks/Pattern2_3/Dance2儌乕僔儑儞.vmd",
@@ -198,7 +198,7 @@
         "audioPlayerFile": "tracks/Stellar_-_Sting/Stellar - Sting.wav"
     },
     {
-        "name": "Stellar - Sting",
+        "name": "Stellar - Sting (2)",
         "repo": "motions4",
         "slug": "Stellar_-_Sting_2",
         "modelMotionFile": "tracks/Stellar_-_Sting_2/Sting.vmd",
