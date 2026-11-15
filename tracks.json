@@ -1,238 +1,268 @@
 [
-    {
-        "name": "Number9",
-        "repo": "motions4",
-        "slug": "Number9",
-        "modelMotionFile": "tracks/Number9/Number9.vmd",
-        "camMotionFile": "tracks/Number9/镜头.vmd",
-        "audioPlayerFile": "tracks/Number9/T-ara_Number9.wav"
-    },
-    {
-        "name": "OH MY GIRL - Nonstop",
-        "repo": "motions4",
-        "slug": "OH_MY_GIRL_-_Nonstop",
-        "modelMotionFile": "tracks/OH_MY_GIRL_-_Nonstop/Motion.vmd",
-        "camMotionFile": "tracks/OH_MY_GIRL_-_Nonstop/Camera.vmd",
-        "audioPlayerFile": "tracks/OH_MY_GIRL_-_Nonstop/Nonstop.wav"
-    },
-    {
-        "name": "PELOモーション あずさ",
-        "repo": "motions4",
-        "slug": "PELOモーション_あずさ",
-        "modelMotionFile": "tracks/PELOモーション_あずさ/偁偢偝偝傫梡.vmd"
-    },
-    {
-        "name": "PRISTIN V - Get It",
-        "repo": "motions4",
-        "slug": "PRISTIN_V_-_Get_It",
-        "modelMotionFile": "tracks/PRISTIN_V_-_Get_It/motion.vmd",
-        "audioPlayerFile": "tracks/PRISTIN_V_-_Get_It/PRISTIN V - Get It.wav"
-    },
-    {
-        "name": "PSY&HyunA-gentlemen",
-        "repo": "motions4",
-        "slug": "PSY_HyunA-gentlemen",
-        "modelMotionFile": "tracks/PSY_HyunA-gentlemen/GENTLEMAN儌乕僔儑儞俛.vmd",
-        "camMotionFile": "tracks/PSY_HyunA-gentlemen/GENTLEMAN カメラモーション.vmd",
-        "audioPlayerFile": "tracks/PSY_HyunA-gentlemen/0001.哔哩哔哩-【慎入！全程高能】万万没想到的Gentleman【视觉震撼，管好你的鼻血】_clip.wav"
-    },
-    {
-        "name": "Paradinha~",
-        "repo": "motions4",
-        "slug": "Paradinha",
-        "modelMotionFile": "tracks/Paradinha/Motion.vmd",
-        "camMotionFile": "tracks/Paradinha/Camera  - Made by Dr.Cossack - Based on from __ORION__ Camera.vmd",
-        "audioPlayerFile": "tracks/Paradinha/Anitta - Paradinha.wav"
-    },
-    {
-        "name": "Pattern 1",
-        "repo": "motions4",
-        "slug": "Pattern_1",
-        "modelMotionFile": "tracks/Pattern_1/Dance.vmd",
-        "camMotionFile": "tracks/Pattern_1/Camera.vmd",
-        "audioPlayerFile": "tracks/Pattern_1/1.Feel Special.wav"
-    },
-    {
-        "name": "Pattern 2",
-        "repo": "motions4",
-        "slug": "Pattern_2",
-        "modelMotionFile": "tracks/Pattern_2/Dance.vmd",
-        "camMotionFile": "tracks/Pattern_2/Camera.vmd",
-        "audioPlayerFile": "tracks/Pattern_2/Feel Special.wav"
-    },
-    {
-        "name": "Pattern1",
-        "repo": "motions4",
-        "slug": "Pattern1",
-        "modelMotionFile": "tracks/Pattern1/Dance儌乕僔儑儞.vmd",
-        "camMotionFile": "tracks/Pattern1/Camera儌乕僔儑儞.vmd"
-    },
-    {
-        "name": "Pattern1 (2)",
-        "repo": "motions4",
-        "slug": "Pattern1_2",
-        "modelMotionFile": "tracks/Pattern1_2/Dance儌乕僔儑儞.vmd",
-        "camMotionFile": "tracks/Pattern1_2/Camera儌乕僔儑儞.vmd"
-    },
-    {
-        "name": "Pattern1 (3)",
-        "repo": "motions4",
-        "slug": "Pattern1_3",
-        "modelMotionFile": "tracks/Pattern1_3/Dance儌乕僔儑儞.vmd",
-        "camMotionFile": "tracks/Pattern1_3/Camera儌乕僔儑儞.vmd"
-    },
-    {
-        "name": "Pattern2",
-        "repo": "motions4",
-        "slug": "Pattern2",
-        "modelMotionFile": "tracks/Pattern2/Dance儌乕僔儑儞.vmd",
-        "camMotionFile": "tracks/Pattern2/Camera儌乕僔儑儞.vmd"
-    },
-    {
-        "name": "Pattern2 (2)",
-        "repo": "motions4",
-        "slug": "Pattern2_2",
-        "modelMotionFile": "tracks/Pattern2_2/Dance儌乕僔儑儞.vmd",
-        "camMotionFile": "tracks/Pattern2_2/Camera儌乕僔儑儞.vmd"
-    },
-    {
-        "name": "Pattern2 (3)",
-        "repo": "motions4",
-        "slug": "Pattern2_3",
-        "modelMotionFile": "tracks/Pattern2_3/Dance2儌乕僔儑儞.vmd",
-        "camMotionFile": "tracks/Pattern2_3/Camera2儌乕僔儑儞.vmd"
-    },
-    {
-        "name": "Pattern3",
-        "repo": "motions4",
-        "slug": "Pattern3",
-        "modelMotionFile": "tracks/Pattern3/1.Dance儌乕僔儑儞.vmd",
-        "camMotionFile": "tracks/Pattern3/Camera儌乕僔儑儞.vmd"
-    },
-    {
-        "name": "Pattern4",
-        "repo": "motions4",
-        "slug": "Pattern4",
-        "modelMotionFile": "tracks/Pattern4/Dance儌乕僔儑儞.vmd",
-        "camMotionFile": "tracks/Pattern4/Camera儌乕僔儑儞.vmd"
-    },
-    {
-        "name": "Perfume-HurlyBurly",
-        "repo": "motions4",
-        "slug": "Perfume-HurlyBurly",
-        "modelMotionFile": "tracks/Perfume-HurlyBurly/HurlyBurly1.vmd",
-        "camMotionFile": "tracks/Perfume-HurlyBurly/镜头.vmd",
-        "audioPlayerFile": "tracks/Perfume-HurlyBurly/HurlyLY Burly!.wav"
-    },
-    {
-        "name": "Persecution Complex Cellphone Girl",
-        "repo": "motions4",
-        "slug": "Persecution_Complex_Cellphone_Girl",
-        "modelMotionFile": "tracks/Persecution_Complex_Cellphone_Girl/Motion model 2.vmd",
-        "camMotionFile": "tracks/Persecution_Complex_Cellphone_Girl/Camera - by Willowywicca (little changed).vmd",
-        "audioPlayerFile": "tracks/Persecution_Complex_Cellphone_Girl/Persecution Complex Cellphone Girl.wav"
-    },
-    {
-        "name": "ROKI",
-        "repo": "motions4",
-        "slug": "ROKI",
-        "modelMotionFile": "tracks/ROKI/【田中ヒメ】ロキ【ダンス】.vmd",
-        "camMotionFile": "tracks/ROKI/ロキ　camera.vmd",
-        "audioPlayerFile": "tracks/ROKI/ROKI.wav"
-    },
-    {
-        "name": "Red Velvet - Ice Cream Cake",
-        "repo": "motions4",
-        "slug": "Red_Velvet_-_Ice_Cream_Cake",
-        "modelMotionFile": "tracks/Red_Velvet_-_Ice_Cream_Cake/Ice Cream Cake - Camera [BigYellowAlien].vmd"
-    },
-    {
-        "name": "Red Velvet -RBB",
-        "repo": "motions4",
-        "slug": "Red_Velvet_-RBB",
-        "modelMotionFile": "tracks/Red_Velvet_-RBB/Motion.vmd",
-        "audioPlayerFile": "tracks/Red_Velvet_-RBB/rbb.wav"
-    },
-    {
-        "name": "Red Velvet- psycho",
-        "repo": "motions4",
-        "slug": "Red_Velvet-_psycho",
-        "modelMotionFile": "tracks/Red_Velvet-_psycho/psycho.vmd",
-        "audioPlayerFile": "tracks/Red_Velvet-_psycho/psycho.wav"
-    },
-    {
-        "name": "STEP",
-        "repo": "motions4",
-        "slug": "STEP",
-        "modelMotionFile": "tracks/STEP/2_step-motion2.vmd",
-        "camMotionFile": "tracks/STEP/STEP_CAMERA_lola18865.vmd",
-        "audioPlayerFile": "tracks/STEP/17_x264.wav"
-    },
-    {
-        "name": "So Sexy Motion",
-        "repo": "motions4",
-        "slug": "So_Sexy_Motion",
-        "modelMotionFile": "tracks/So_Sexy_Motion/So Sexy Right.vmd",
-        "audioPlayerFile": "tracks/So_Sexy_Motion/HAM.wav"
-    },
-    {
-        "name": "Stellar - Marionette",
-        "repo": "motions4",
-        "slug": "Stellar_-_Marionette",
-        "modelMotionFile": "tracks/Stellar_-_Marionette/Motion Ver.01.vmd",
-        "audioPlayerFile": "tracks/Stellar_-_Marionette/Stellar - Marionette.wav"
-    },
-    {
-        "name": "Stellar - Marionette(提线木偶)",
-        "repo": "motions4",
-        "slug": "Stellar_-_Marionette_提线木偶",
-        "modelMotionFile": "tracks/Stellar_-_Marionette_提线木偶/Motion Full Ver.vmd",
-        "audioPlayerFile": "tracks/Stellar_-_Marionette_提线木偶/Stellar - Marionette.wav"
-    },
-    {
-        "name": "Stellar - Sting",
-        "repo": "motions4",
-        "slug": "Stellar_-_Sting",
-        "modelMotionFile": "tracks/Stellar_-_Sting/Sting.vmd",
-        "camMotionFile": "tracks/Stellar_-_Sting/Sting cam by cegook.vmd",
-        "audioPlayerFile": "tracks/Stellar_-_Sting/Stellar - Sting.wav"
-    },
-    {
-        "name": "Stellar - Sting (2)",
-        "repo": "motions4",
-        "slug": "Stellar_-_Sting_2",
-        "modelMotionFile": "tracks/Stellar_-_Sting_2/Sting.vmd",
-        "camMotionFile": "tracks/Stellar_-_Sting_2/Sting cam by cegook.vmd",
-        "audioPlayerFile": "tracks/Stellar_-_Sting_2/Stellar - Sting.wav"
-    },
-    {
-        "name": "Sunmi siren",
-        "repo": "motions4",
-        "slug": "Sunmi_siren",
-        "modelMotionFile": "tracks/Sunmi_siren/siren.vmd",
-        "audioPlayerFile": "tracks/Sunmi_siren/sunmi-siren.wav"
-    },
-    {
-        "name": "Sunmi-Full moon",
-        "repo": "motions4",
-        "slug": "Sunmi-Full_moon",
-        "modelMotionFile": "tracks/Sunmi-Full_moon/motion TDAbase.vmd",
-        "camMotionFile": "tracks/Sunmi-Full_moon/camera.vmd",
-        "audioPlayerFile": "tracks/Sunmi-Full_moon/wave.wav"
-    },
-    {
-        "name": "Sunmi-gotta go",
-        "repo": "motions4",
-        "slug": "Sunmi-gotta_go",
-        "modelMotionFile": "tracks/Sunmi-gotta_go/gotta go.vmd",
-        "audioPlayerFile": "tracks/Sunmi-gotta_go/[Mirrored] Sunmi (선미) - 'Gotta Go' (가라고) l Cover by★ Sin eunjin.wav"
-    },
-    {
-        "name": "Sunmi-lalalay",
-        "repo": "motions4",
-        "slug": "Sunmi-lalalay",
-        "modelMotionFile": "tracks/Sunmi-lalalay/motion.vmd",
-        "camMotionFile": "tracks/Sunmi-lalalay/camera.vmd",
-        "audioPlayerFile": "tracks/Sunmi-lalalay/선미(SUNMI) - 날라리(LALALAY) - Lisa Rhee Dance Cover.wav"
-    }
+  {
+    "name": "Number9",
+    "repo": "motions4",
+    "slug": "Number9",
+    "modelMotionFile": "tracks/Number9/Number9.vmd",
+    "camMotionFile": "tracks/Number9/镜头.vmd",
+    "audioPlayerFile": "tracks/Number9/T-ara_Number9.wav"
+  },
+  {
+    "name": "OH MY GIRL - Nonstop",
+    "repo": "motions4",
+    "slug": "OH_MY_GIRL_-_Nonstop",
+    "modelMotionFile": "tracks/OH_MY_GIRL_-_Nonstop/Motion.vmd",
+    "camMotionFile": "tracks/OH_MY_GIRL_-_Nonstop/Camera.vmd",
+    "audioPlayerFile": "tracks/OH_MY_GIRL_-_Nonstop/Nonstop.wav"
+  },
+  {
+    "name": "PELOモーション あずさ",
+    "repo": "motions4",
+    "slug": "PELOモーション_あずさ",
+    "modelMotionFile": "tracks/PELOモーション_あずさ/偁偢偝偝傫梡.vmd"
+  },
+  {
+    "name": "PRISTIN V - Get It",
+    "repo": "motions4",
+    "slug": "PRISTIN_V_-_Get_It",
+    "modelMotionFile": "tracks/PRISTIN_V_-_Get_It/motion.vmd",
+    "audioPlayerFile": "tracks/PRISTIN_V_-_Get_It/PRISTIN V - Get It.wav"
+  },
+  {
+    "name": "PSY&HyunA-gentlemen",
+    "repo": "motions4",
+    "slug": "PSY_HyunA-gentlemen",
+    "modelMotionFile": "tracks/PSY_HyunA-gentlemen/GENTLEMAN儌乕僔儑儞俛.vmd",
+    "camMotionFile": "tracks/PSY_HyunA-gentlemen/GENTLEMAN カメラモーション.vmd",
+    "audioPlayerFile": "tracks/PSY_HyunA-gentlemen/0001.哔哩哔哩-【慎入！全程高能】万万没想到的Gentleman【视觉震撼，管好你的鼻血】_clip.wav"
+  },
+  {
+    "name": "Paradinha~",
+    "repo": "motions4",
+    "slug": "Paradinha",
+    "modelMotionFile": "tracks/Paradinha/Motion.vmd",
+    "camMotionFile": "tracks/Paradinha/Camera  - Made by Dr.Cossack - Based on from __ORION__ Camera.vmd",
+    "audioPlayerFile": "tracks/Paradinha/Anitta - Paradinha.wav",
+    "cameraMotions": [
+      {
+        "name": "当前镜头",
+        "file": "https://carlutic.github.io/motions4/tracks/Paradinha/Camera  - Made by Dr.Cossack - Based on from __ORION__ Camera.vmd"
+      },
+      {
+        "name": "Anitta - Paradinha camera by",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s12_anitta_paradinha/cam_1.vmd"
+      }
+    ]
+  },
+  {
+    "name": "Pattern 1",
+    "repo": "motions4",
+    "slug": "Pattern_1",
+    "modelMotionFile": "tracks/Pattern_1/Dance.vmd",
+    "camMotionFile": "tracks/Pattern_1/Camera.vmd",
+    "audioPlayerFile": "tracks/Pattern_1/1.Feel Special.wav"
+  },
+  {
+    "name": "Pattern 2",
+    "repo": "motions4",
+    "slug": "Pattern_2",
+    "modelMotionFile": "tracks/Pattern_2/Dance.vmd",
+    "camMotionFile": "tracks/Pattern_2/Camera.vmd",
+    "audioPlayerFile": "tracks/Pattern_2/Feel Special.wav"
+  },
+  {
+    "name": "Pattern1",
+    "repo": "motions4",
+    "slug": "Pattern1",
+    "modelMotionFile": "tracks/Pattern1/Dance儌乕僔儑儞.vmd",
+    "camMotionFile": "tracks/Pattern1/Camera儌乕僔儑儞.vmd"
+  },
+  {
+    "name": "Pattern1 (2)",
+    "repo": "motions4",
+    "slug": "Pattern1_2",
+    "modelMotionFile": "tracks/Pattern1_2/Dance儌乕僔儑儞.vmd",
+    "camMotionFile": "tracks/Pattern1_2/Camera儌乕僔儑儞.vmd"
+  },
+  {
+    "name": "Pattern1 (3)",
+    "repo": "motions4",
+    "slug": "Pattern1_3",
+    "modelMotionFile": "tracks/Pattern1_3/Dance儌乕僔儑儞.vmd",
+    "camMotionFile": "tracks/Pattern1_3/Camera儌乕僔儑儞.vmd"
+  },
+  {
+    "name": "Pattern2",
+    "repo": "motions4",
+    "slug": "Pattern2",
+    "modelMotionFile": "tracks/Pattern2/Dance儌乕僔儑儞.vmd",
+    "camMotionFile": "tracks/Pattern2/Camera儌乕僔儑儞.vmd"
+  },
+  {
+    "name": "Pattern2 (2)",
+    "repo": "motions4",
+    "slug": "Pattern2_2",
+    "modelMotionFile": "tracks/Pattern2_2/Dance儌乕僔儑儞.vmd",
+    "camMotionFile": "tracks/Pattern2_2/Camera儌乕僔儑儞.vmd"
+  },
+  {
+    "name": "Pattern2 (3)",
+    "repo": "motions4",
+    "slug": "Pattern2_3",
+    "modelMotionFile": "tracks/Pattern2_3/Dance2儌乕僔儑儞.vmd",
+    "camMotionFile": "tracks/Pattern2_3/Camera2儌乕僔儑儞.vmd"
+  },
+  {
+    "name": "Pattern3",
+    "repo": "motions4",
+    "slug": "Pattern3",
+    "modelMotionFile": "tracks/Pattern3/1.Dance儌乕僔儑儞.vmd",
+    "camMotionFile": "tracks/Pattern3/Camera儌乕僔儑儞.vmd"
+  },
+  {
+    "name": "Pattern4",
+    "repo": "motions4",
+    "slug": "Pattern4",
+    "modelMotionFile": "tracks/Pattern4/Dance儌乕僔儑儞.vmd",
+    "camMotionFile": "tracks/Pattern4/Camera儌乕僔儑儞.vmd"
+  },
+  {
+    "name": "Perfume-HurlyBurly",
+    "repo": "motions4",
+    "slug": "Perfume-HurlyBurly",
+    "modelMotionFile": "tracks/Perfume-HurlyBurly/HurlyBurly1.vmd",
+    "camMotionFile": "tracks/Perfume-HurlyBurly/镜头.vmd",
+    "audioPlayerFile": "tracks/Perfume-HurlyBurly/HurlyLY Burly!.wav"
+  },
+  {
+    "name": "Persecution Complex Cellphone Girl",
+    "repo": "motions4",
+    "slug": "Persecution_Complex_Cellphone_Girl",
+    "modelMotionFile": "tracks/Persecution_Complex_Cellphone_Girl/Motion model 2.vmd",
+    "camMotionFile": "tracks/Persecution_Complex_Cellphone_Girl/Camera - by Willowywicca (little changed).vmd",
+    "audioPlayerFile": "tracks/Persecution_Complex_Cellphone_Girl/Persecution Complex Cellphone Girl.wav"
+  },
+  {
+    "name": "ROKI",
+    "repo": "motions4",
+    "slug": "ROKI",
+    "modelMotionFile": "tracks/ROKI/【田中ヒメ】ロキ【ダンス】.vmd",
+    "camMotionFile": "tracks/ROKI/ロキ　camera.vmd",
+    "audioPlayerFile": "tracks/ROKI/ROKI.wav"
+  },
+  {
+    "name": "Red Velvet - Ice Cream Cake",
+    "repo": "motions4",
+    "slug": "Red_Velvet_-_Ice_Cream_Cake",
+    "modelMotionFile": "tracks/Red_Velvet_-_Ice_Cream_Cake/Ice Cream Cake - Camera [BigYellowAlien].vmd"
+  },
+  {
+    "name": "Red Velvet -RBB",
+    "repo": "motions4",
+    "slug": "Red_Velvet_-RBB",
+    "modelMotionFile": "tracks/Red_Velvet_-RBB/Motion.vmd",
+    "audioPlayerFile": "tracks/Red_Velvet_-RBB/rbb.wav"
+  },
+  {
+    "name": "Red Velvet- psycho",
+    "repo": "motions4",
+    "slug": "Red_Velvet-_psycho",
+    "modelMotionFile": "tracks/Red_Velvet-_psycho/psycho.vmd",
+    "audioPlayerFile": "tracks/Red_Velvet-_psycho/psycho.wav"
+  },
+  {
+    "name": "STEP",
+    "repo": "motions4",
+    "slug": "STEP",
+    "modelMotionFile": "tracks/STEP/2_step-motion2.vmd",
+    "camMotionFile": "tracks/STEP/STEP_CAMERA_lola18865.vmd",
+    "audioPlayerFile": "tracks/STEP/17_x264.wav"
+  },
+  {
+    "name": "So Sexy Motion",
+    "repo": "motions4",
+    "slug": "So_Sexy_Motion",
+    "modelMotionFile": "tracks/So_Sexy_Motion/So Sexy Right.vmd",
+    "audioPlayerFile": "tracks/So_Sexy_Motion/HAM.wav"
+  },
+  {
+    "name": "Stellar - Marionette",
+    "repo": "motions4",
+    "slug": "Stellar_-_Marionette",
+    "modelMotionFile": "tracks/Stellar_-_Marionette/Motion Ver.01.vmd",
+    "audioPlayerFile": "tracks/Stellar_-_Marionette/Stellar - Marionette.wav"
+  },
+  {
+    "name": "Stellar - Marionette(提线木偶)",
+    "repo": "motions4",
+    "slug": "Stellar_-_Marionette_提线木偶",
+    "modelMotionFile": "tracks/Stellar_-_Marionette_提线木偶/Motion Full Ver.vmd",
+    "audioPlayerFile": "tracks/Stellar_-_Marionette_提线木偶/Stellar - Marionette.wav"
+  },
+  {
+    "name": "Stellar - Sting",
+    "repo": "motions4",
+    "slug": "Stellar_-_Sting",
+    "modelMotionFile": "tracks/Stellar_-_Sting/Sting.vmd",
+    "camMotionFile": "tracks/Stellar_-_Sting/Sting cam by cegook.vmd",
+    "audioPlayerFile": "tracks/Stellar_-_Sting/Stellar - Sting.wav",
+    "cameraMotions": [
+      {
+        "name": "Sting cam by cegook",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s41_stellar_sting_by_natsumisan_/cam_1.vmd"
+      },
+      {
+        "name": "cameraby izzryuu-damkwza",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s41_stellar_sting_by_natsumisan_/cam_2.vmd"
+      }
+    ]
+  },
+  {
+    "name": "Stellar - Sting (2)",
+    "repo": "motions4",
+    "slug": "Stellar_-_Sting_2",
+    "modelMotionFile": "tracks/Stellar_-_Sting_2/Sting.vmd",
+    "camMotionFile": "tracks/Stellar_-_Sting_2/Sting cam by cegook.vmd",
+    "audioPlayerFile": "tracks/Stellar_-_Sting_2/Stellar - Sting.wav",
+    "cameraMotions": [
+      {
+        "name": "Sting cam by cegook",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s41_stellar_sting_by_natsumisan_/cam_1.vmd"
+      },
+      {
+        "name": "cameraby izzryuu-damkwza",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s41_stellar_sting_by_natsumisan_/cam_2.vmd"
+      }
+    ]
+  },
+  {
+    "name": "Sunmi siren",
+    "repo": "motions4",
+    "slug": "Sunmi_siren",
+    "modelMotionFile": "tracks/Sunmi_siren/siren.vmd",
+    "audioPlayerFile": "tracks/Sunmi_siren/sunmi-siren.wav"
+  },
+  {
+    "name": "Sunmi-Full moon",
+    "repo": "motions4",
+    "slug": "Sunmi-Full_moon",
+    "modelMotionFile": "tracks/Sunmi-Full_moon/motion TDAbase.vmd",
+    "camMotionFile": "tracks/Sunmi-Full_moon/camera.vmd",
+    "audioPlayerFile": "tracks/Sunmi-Full_moon/wave.wav"
+  },
+  {
+    "name": "Sunmi-gotta go",
+    "repo": "motions4",
+    "slug": "Sunmi-gotta_go",
+    "modelMotionFile": "tracks/Sunmi-gotta_go/gotta go.vmd",
+    "audioPlayerFile": "tracks/Sunmi-gotta_go/[Mirrored] Sunmi (선미) - 'Gotta Go' (가라고) l Cover by★ Sin eunjin.wav"
+  },
+  {
+    "name": "Sunmi-lalalay",
+    "repo": "motions4",
+    "slug": "Sunmi-lalalay",
+    "modelMotionFile": "tracks/Sunmi-lalalay/motion.vmd",
+    "camMotionFile": "tracks/Sunmi-lalalay/camera.vmd",
+    "audioPlayerFile": "tracks/Sunmi-lalalay/선미(SUNMI) - 날라리(LALALAY) - Lisa Rhee Dance Cover.wav"
+  }
 ]
